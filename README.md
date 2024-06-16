@@ -21,9 +21,11 @@ https://www.explainshell.com/
 ## Systems design
 
 https://github.com/donnemartin/system-design-primer
+
 https://dataintensive.net/
 
 ## Leetcode
 
 [Grokking Notes](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4#grokking-notes)
+
 https://seanprashad.com/leetcode-patterns/
