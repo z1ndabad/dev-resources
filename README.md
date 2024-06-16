@@ -10,11 +10,15 @@ https://www.explainshell.com/
 
 ## Vim
 
-[Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
+[Vim As Your Editor (Playlist)](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 ## Command-line
 
 https://www.explainshell.com/
+
+## DSA
+
+[Graph Theory (Playlist)](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 # Interview prep
 
