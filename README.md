@@ -33,3 +33,11 @@ https://dataintensive.net/
 [Grokking Notes](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4#grokking-notes)
 
 https://seanprashad.com/leetcode-patterns/
+
+# Languages
+
+## Python
+
+### Bootstrapping
+
+[Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref)
