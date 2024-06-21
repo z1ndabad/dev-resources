@@ -1,10 +1,18 @@
 {
-  "vim.useSystemClipboard": true,
+  "security.workspace.trust.untrustedFiles": "open",
   "editor.formatOnSave": true,
-  "vim.insertModeKeyBindings": [
-        {
-            "before": ["j", "j"],
-            "after": ["<Esc>"]
-        }
-    ] 
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "vim.vimrc.enable": true,
+  "vim.vimrc.path": "~/.vimrc",
+  "vim.useSystemClipboard": true,
+  "editor.lineNumbers": "relative"
 }
