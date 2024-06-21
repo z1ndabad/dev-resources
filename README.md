@@ -1,3 +1,7 @@
+# Mental
+
+[Writer's block](text/writersblock.md)
+
 # Tools
 
 ## Bash
