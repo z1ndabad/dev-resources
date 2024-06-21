@@ -14,4 +14,4 @@ So that is my advice about getting unblocked. Switch from team "I will one day w
 
 Fifteen drafts later, or whenever someone paying you starts yelling at you, who knows, maybe the piece of shit will be good enough or maybe everyone in the world will turn out to be so hopelessly stupid that they think bad things are good and in any case, you get to spend so much less time at a keyboard and so much more at a bar where you really belong because medicine because childhood trauma because the Supreme Court didn't make abortion an option until your unwanted ass was in its third trimester. Happy hunting and pecking!"
 
-- Dan Harmon (sadly)
+\- Dan Harmon (sadly)
