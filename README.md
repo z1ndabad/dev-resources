@@ -28,9 +28,13 @@ https://www.explainshell.com/
 
 ## Systems design
 
+### Intro resources
 https://github.com/donnemartin/system-design-primer
 
 https://dataintensive.net/
+
+### Worked examples
+(Systems Design in a Hurry)[https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction]
 
 ## Leetcode
 
