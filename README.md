@@ -38,9 +38,13 @@ https://dataintensive.net/
 
 ## Leetcode
 
+### Roadmaps/guides
 [Grokking Notes](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4#grokking-notes)
 
 https://seanprashad.com/leetcode-patterns/
+
+### Sliding Window
+[Sliding window technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs&t=1462s)
 
 # Languages
 
