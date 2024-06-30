@@ -43,7 +43,7 @@ https://dataintensive.net/
 
 https://seanprashad.com/leetcode-patterns/
 
-### Sliding Window
+### Problem-solving techniques
 [Sliding window technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs&t=1462s)
 
 # Languages
