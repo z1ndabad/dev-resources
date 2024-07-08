@@ -22,6 +22,8 @@ https://www.explainshell.com/
 
 ## DSA
 
+[Binary Search - a Different Perspective](https://www.youtube.com/watch?v=tgVSkMA8joQ)
+
 [Graph Theory (Playlist)](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 # Interview prep
