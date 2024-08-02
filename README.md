@@ -15,6 +15,7 @@ https://www.explainshell.com/
 ## Vim
 
 [Vim As Your Editor (Playlist)](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
+[Neovim from Scratch (Playlist)](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
 
 ## Command-line
 
