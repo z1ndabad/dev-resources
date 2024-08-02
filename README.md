@@ -23,6 +23,8 @@ https://www.explainshell.com/
 
 ## DSA
 
+[Binary Search - a Different Perspective](https://www.youtube.com/watch?v=tgVSkMA8joQ)
+
 [Graph Theory (Playlist)](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 # Interview prep
@@ -35,13 +37,17 @@ https://github.com/donnemartin/system-design-primer
 https://dataintensive.net/
 
 ### Worked examples
-(Systems Design in a Hurry)[https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction]
+[Systems Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 
 ## Leetcode
 
+### Roadmaps/guides
 [Grokking Notes](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4#grokking-notes)
 
 https://seanprashad.com/leetcode-patterns/
+
+### Problem-solving techniques
+[Sliding window technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs&t=1462s)
 
 # Languages
 
