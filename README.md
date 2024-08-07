@@ -18,6 +18,8 @@ https://www.explainshell.com/
 
 [Neovim from Scratch (Playlist)](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
 
+[LSP Zero docs](https://lsp-zero.netlify.app/v4.x/tutorial.html) -- excellent docs for both LSP-zero and getting started with Lazy
+
 ## Command-line
 
 https://www.explainshell.com/
